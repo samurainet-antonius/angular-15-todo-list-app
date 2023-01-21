@@ -1,0 +1,7 @@
+.item-complete{
+  text-decoration: line-through;
+}
+
+.not-allowed{
+  cursor: not-allowed! important;
+}
